@@ -1,8 +1,8 @@
 {
-    "name": "KukiChatBot",
+    "name": "AICHATBOT",
     "description": "Hello,I Am @kukichatbot Example ",
     "logo": "https://telegra.ph/file/a54ed27b0dc3fc3e439fd.jpg",
-    "repository": "https://github.com/MoeZilla/telegram-kuki-bot",
+    "repository": "https://github.com/SUKHPAL443/AICHATBOT",
     "env": {
         "token": {
             "description": "telegram bot token here",
