@@ -6,7 +6,7 @@ let kuki_owner;
 
 class Kukibot {
 
-  constructor(options = {name: 'kuki', owner:'moezilla'}){
+  constructor(options = {name: 'kuki', owner:'SUKHPAL'}){
 
         kuki_name = options.name;
 
@@ -32,7 +32,7 @@ class Kukibot {
 
     }
 
-    return kuki.reply.replace('kuki', kuki_name).replace('MoeZilla', kuki_owner);
+    return kuki.reply.replace('kuki', kuki_name).replace('SUKHPAL', kuki_owner);
 
   }
 
